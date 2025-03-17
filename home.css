@@ -1,0 +1,43 @@
+﻿@charset "utf-8";
+
+
+
+body {
+    background-color: black;
+    color: azure;
+}
+
+main {
+    background-color: black;
+    color: azure;
+}
+
+#menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#menu li {
+    display: inline;
+    padding: 0;
+    margin: 0;
+}
+
+    #menu li a {
+        display: block;
+        background-color: azure;
+        padding: 3px 10px;
+        text-decoration: none;
+        color: black;
+        width: 150px;
+        margin: 2px 0px;
+        text-align: left;
+        font-size: 14px;
+    }
+
+        #menu li a:hover {
+            border: 3px solid #8593A9;
+            background-color: azure;
+        }
+
