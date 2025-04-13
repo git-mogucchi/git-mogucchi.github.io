@@ -7,6 +7,11 @@ body {
     color: azure;
 }
 
+image {
+    display:flex;
+}
+
+
 main {
     background-color: black;
     color: azure;
