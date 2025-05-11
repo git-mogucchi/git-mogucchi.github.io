@@ -5,6 +5,7 @@
     <meta charset="utf-8" />
     <title>mogucchiのホームページ</title>
     <link rel=" stylesheet" href="home.css" type="text/css">
+    <link rel="canonical" href="home.html">
 </head>
 <body>
 

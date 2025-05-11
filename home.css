@@ -1,20 +1,47 @@
 ﻿@charset "utf-8";
 
 
+body{
+    background-color:#f3f3f3;
+}
 
-body {
-    background-color: black;
-    color: azure;
+.main {
+    background-color:#fef4f4;
+    color: #333631;
+}
+
+.update{
+    background-color:#e9dfe5;
+    color: #333631;
+}
+
+.tetris{
+    background-color:#abced8;
+    color:#333631;
+}
+
+.images{
+    background-color:#2b2b2b;
+    color:whitesmoke;
+}
+
+.pages{
+    background-color:#badcad;
+    color: #333631;
 }
 
 image {
     display:flex;
 }
 
+.soft{
+    background-color:#abced8;
+    color:#333631;
+}
 
-main {
-    background-color: black;
-    color: azure;
+.link{
+    background-color:lightyellow;
+    color:black;
 }
 
 #menu ul {
@@ -31,7 +58,7 @@ main {
 
     #menu li a {
         display: block;
-        background-color: azure;
+        background-color: #00000000;
         padding: 3px 10px;
         text-decoration: none;
         color: black;
@@ -42,7 +69,7 @@ main {
     }
 
         #menu li a:hover {
-            border: 3px solid #8593A9;
-            background-color: azure;
+           
+            background-color: #eaf4fc;
         }
 
